@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Data files
+*.parquet
+*.duckdb
+*.csv
+*.db
+
+# Mac
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
